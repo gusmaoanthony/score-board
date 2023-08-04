@@ -10,7 +10,7 @@ body {
 
 .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     color: white;
     text-align: center;
     font-size: 40px;
